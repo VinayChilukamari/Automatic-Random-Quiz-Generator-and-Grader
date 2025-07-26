@@ -1,0 +1,205 @@
+{
+    "Questions":[
+
+    {"Question": "What planet is known as the Red Planet?",
+     "Options": ["Earth", "Mars", "Jupiter", "Venus"],
+     "Answer": "Mars"},
+
+    {"Question": "What gas do plants absorb from the atmosphere?",
+     "Options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+     "Answer": "Carbon Dioxide"},
+
+    {"Question": "What is the boiling point of water at sea level?",
+     "Options": ["100°C", "0°C", "50°C", "212°C"],
+     "Answer": "100°C"},
+
+    {"Question": "What part of the cell contains DNA?",
+     "Options": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
+     "Answer": "Nucleus"},
+
+    {"Question": "Which element has the chemical symbol 'O'?",
+     "Options": ["Osmium", "Oxygen", "Oxide", "Olivine"],
+     "Answer": "Oxygen"},
+
+    {"Question": "What is the largest planet in our solar system?",
+     "Options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+     "Answer": "Jupiter"},
+
+    {"Question": "Which human organ is primarily responsible for filtering blood?",
+     "Options": ["Heart", "Liver", "Kidneys", "Lungs"],
+     "Answer": "Kidneys"},
+
+    {"Question": "What is the hardest natural substance on Earth?",
+     "Options": ["Gold", "Iron", "Diamond", "Quartz"],
+     "Answer": "Diamond"},
+
+    {"Question": "What vitamin is produced when skin is exposed to sunlight?",
+     "Options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin C"],
+     "Answer": "Vitamin D"},
+
+    {"Question": "Which part of the plant conducts photosynthesis?",
+     "Options": ["Roots", "Stem", "Leaves", "Flowers"],
+     "Answer": "Leaves"},
+
+    {"Question": "Which planet is closest to the sun?",
+     "Options": ["Venus", "Mars", "Earth", "Mercury"],
+     "Answer": "Mercury"},
+
+    {"Question": "What do bees collect from flowers?",
+     "Options": ["Pollen", "Nectar", "Juice", "Syrup"],
+     "Answer": "Nectar"},
+
+    {"Question": "Which gas is most abundant in the Earth's atmosphere?",
+     "Options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+     "Answer": "Nitrogen"},
+
+    {"Question": "How many bones are there in an adult human body?",
+     "Options": ["206", "208", "200", "210"],
+     "Answer": "206"},
+
+    {"Question": "Which organ is responsible for pumping blood?",
+     "Options": ["Liver", "Brain", "Heart", "Lungs"],
+     "Answer": "Heart"},
+
+    {"Question": "What is the primary source of energy for Earth?",
+     "Options": ["Moon", "Wind", "Sun", "Fire"],
+     "Answer": "Sun"},
+
+    {"Question": "Which state of matter has no definite shape but definite volume?",
+     "Options": ["Solid", "Liquid", "Gas", "Plasma"],
+     "Answer": "Liquid"},
+
+    {"Question": "What is the symbol for Sodium in the periodic table?",
+     "Options": ["Na", "So", "Sd", "Sm"],
+     "Answer": "Na"},
+
+    {"Question": "Which blood cells help in clotting?",
+     "Options": ["RBCs", "WBCs", "Platelets", "Plasma"],
+     "Answer": "Platelets"},
+
+    {"Question": "What is the process by which plants make their food?",
+     "Options": ["Respiration", "Photosynthesis", "Fermentation", "Digestion"],
+     "Answer": "Photosynthesis"},
+
+    {"Question": "Which metal is liquid at room temperature?",
+     "Options": ["Mercury", "Iron", "Aluminum", "Zinc"],
+     "Answer": "Mercury"},
+
+    {"Question": "What is the basic unit of life?",
+     "Options": ["Organ", "Tissue", "Cell", "Molecule"],
+     "Answer": "Cell"},
+
+    {"Question": "Which part of the brain controls balance?",
+     "Options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+     "Answer": "Cerebellum"},
+
+    {"Question": "What is the pH value of pure water?",
+     "Options": ["7", "0", "14", "10"],
+     "Answer": "7"},
+
+    {"Question": "What gas do humans exhale?",
+     "Options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+     "Answer": "Carbon Dioxide"},
+
+    {"Question": "What is the smallest planet in our solar system?",
+     "Options": ["Pluto", "Mercury", "Mars", "Venus"],
+     "Answer": "Mercury"},
+
+    {"Question": "Which vitamin is mainly found in citrus fruits?",
+     "Options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+     "Answer": "Vitamin C"},
+
+    {"Question": "Which body part is affected by pneumonia?",
+     "Options": ["Heart", "Lungs", "Kidneys", "Liver"],
+     "Answer": "Lungs"},
+
+    {"Question": "What is the main component of natural gas?",
+     "Options": ["Methane", "Propane", "Butane", "Ethane"],
+     "Answer": "Methane"},
+
+    {"Question": "Which planet has rings around it?",
+     "Options": ["Earth", "Mars", "Saturn", "Venus"],
+     "Answer": "Saturn"},
+
+    {"Question": "What is the largest organ in the human body?",
+     "Options": ["Liver", "Brain", "Skin", "Lungs"],
+     "Answer": "Skin"},
+
+    {"Question": "Which animal is known as the 'King of the Jungle'?",
+     "Options": ["Tiger", "Elephant", "Lion", "Panther"],
+     "Answer": "Lion"},
+
+    {"Question": "Which organ helps in digestion and produces insulin?",
+     "Options": ["Liver", "Pancreas", "Stomach", "Spleen"],
+     "Answer": "Pancreas"},
+
+    {"Question": "Which acid is found in vinegar?",
+     "Options": ["Citric acid", "Acetic acid", "Hydrochloric acid", "Sulfuric acid"],
+     "Answer": "Acetic acid"},
+
+    {"Question": "What is the SI unit of force?",
+     "Options": ["Joule", "Watt", "Newton", "Pascal"],
+     "Answer": "Newton"},
+
+    {"Question": "Which planet is known for its giant red spot?",
+     "Options": ["Jupiter", "Saturn", "Mars", "Uranus"],
+     "Answer": "Jupiter"},
+
+    {"Question": "Which layer of the Earth do we live on?",
+     "Options": ["Mantle", "Crust", "Core", "Lithosphere"],
+     "Answer": "Crust"},
+
+    {"Question": "What is the color of human blood?",
+     "Options": ["Red", "Blue", "Green", "Purple"],
+     "Answer": "Red"},
+
+    {"Question": "Which human sense is associated with the nose?",
+     "Options": ["Taste", "Smell", "Sight", "Hearing"],
+     "Answer": "Smell"},
+
+    {"Question": "How many chambers does the human heart have?",
+     "Options": ["2", "3", "4", "5"],
+     "Answer": "4"},
+
+    {"Question": "Which device is used to measure temperature?",
+     "Options": ["Barometer", "Thermometer", "Hygrometer", "Altimeter"],
+     "Answer": "Thermometer"},
+
+    {"Question": "Which metal is most conductive of electricity?",
+     "Options": ["Copper", "Gold", "Silver", "Aluminum"],
+     "Answer": "Silver"},
+
+    {"Question": "What is the center of an atom called?",
+     "Options": ["Electron", "Neutron", "Nucleus", "Proton"],
+     "Answer": "Nucleus"},
+
+    {"Question": "Which part of the human eye controls light entry?",
+     "Options": ["Lens", "Cornea", "Pupil", "Retina"],
+     "Answer": "Pupil"},
+
+    {"Question": "What is the process of liquid changing to gas called?",
+     "Options": ["Melting", "Evaporation", "Condensation", "Sublimation"],
+     "Answer": "Evaporation"},
+
+    {"Question": "What causes tides on Earth?",
+     "Options": ["Sun", "Wind", "Moon", "Rain"],
+     "Answer": "Moon"},
+
+    {"Question": "What is the freezing point of water?",
+     "Options": ["0°C", "32°C", "100°C", "10°C"],
+     "Answer": "0°C"},
+
+    {"Question": "Which organ filters waste from the blood?",
+     "Options": ["Liver", "Kidney", "Heart", "Stomach"],
+     "Answer": "Kidney"},
+
+    {"Question": "Which planet is tilted on its side?",
+     "Options": ["Venus", "Uranus", "Mars", "Saturn"],
+     "Answer": "Uranus"},
+
+    {"Question": "Which part of the flower becomes the fruit?",
+     "Options": ["Petal", "Stem", "Ovary", "Anther"],
+     "Answer": "Ovary"}
+
+]
+}

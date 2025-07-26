@@ -1,0 +1,44 @@
+{
+    "Details": [
+        {
+            "name": "Tony Stark",
+            "age": "45",
+            "gender": "M",
+            "email-id": "ironman@gmail.com",
+            "score_percentage": 70.0,
+            "time_taken": "38.80"
+        },
+        {
+            "name": "Banner",
+            "age": "34",
+            "gender": "M",
+            "email-id": "hulk@gmail.com",
+            "score_percentage": 60.0,
+            "time_taken": "52.69"
+        },
+        {
+            "name": "Natasha Romannoff",
+            "age": "36",
+            "gender": "F",
+            "email-id": "blackwidow@gmail.com",
+            "score_percentage": 30.0,
+            "time_taken": "36.93"
+        },
+        {
+            "name": "Ram",
+            "age": "24",
+            "gender": "M",
+            "email-id": "ram@gmail.com",
+            "score_percentage": 50.0,
+            "time_taken": "38.91"
+        },
+        {
+            "name": "Shyam",
+            "age": "24",
+            "gender": "M",
+            "email-id": "shyam@gmail.com",
+            "score_percentage": 80.0,
+            "time_taken": "35.02"
+        }
+    ]
+}
